@@ -1,3 +1,3 @@
 # Hello-world
 just for help
-second
+this is about my personal characteristic. 
